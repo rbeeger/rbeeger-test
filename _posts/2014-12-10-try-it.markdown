@@ -1,0 +1,28 @@
+---
+date: '2004-02-07 16:38:50'
+layout: post
+slug: overlaydesktop
+status: publish
+title: OverlayDesktop
+wordpress_id: '18'
+tags:
+- dev
+---
+ 
+I released the OverlayDesktop DesktopX 2 Theme. You can find it on
+[WinCustomize](http://www.wincustomize.com/skins.asp?library=31&SkinID=2874)
+ 
+In the past I have played around with different programs and other means to have a fast access to the applications I use without having to wander through the start menu.
+ 
+There are generally two kinds of programs that try to achieve this:
+	
+  * Extra bars such as the QuickStart-Bar from Windows that are always visible. Depending on your screen resolution and whether you dock the bar horizontally or vertically, you can put a good deal of icons on them. The problem with those bars is that they take away precious screen space when using big icons. They use fewer space when you use small icons but then it's sometimes hard to aim at the right icon with the mouse cursor. And still they take away space.
+  * Then there are some applications that have the great autohide feature. That's really great. They don't take away any screen space when they aren't needed and you can place icons on them as big as you wish. One kind of those applications are the docks that were first seen on the Mac. But those docks also have some drawbacks. One such is that the dock suddenly appears when you accidentally hit the side of the screen where the dock is hidden and then you have to wait until it autohides again.
+ 
+So why don't I simply put my icons on the desktop? It's only one Win-M away. It simply doesn't feel right to minimize all the windows only to see my desktop and start a new application.
+ 
+So the idea behind OverlayDesktop is to have an extra desktop area that is accessible without minimizing all windows and that doesn't become visible accidentally.
+ 
+The theme consists of two Desktop X objects. One of them is the starter. It is horizontally docked to the upper screen edge and is only one pixel high. It is totally transparent and is always on the top. So when you want to see your OverlayDesktop you move your mouse cursor to the upper edge and press the left mouse button, which makes it visible. The overlay is transparent to some degree, so that you still can see what's under it. You can place any Desktop X objects on it - shortcuts for example. Clicking on a shortcut which resides on the OverlayDesktop starts the application and makes the OverlayDesktop invisible again.
+ 
+I'm using this theme for quite some time now and somehow it feels right for me.
