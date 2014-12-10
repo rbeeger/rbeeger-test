@@ -14,3 +14,7 @@ github_username:  jekyll
 markdown: kramdown
 exclude:
   - Gemfile*
+
+gems:
+  - octopress-asset-pipeline
+  - octopress-date-format
